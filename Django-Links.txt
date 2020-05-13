@@ -1,0 +1,7 @@
+1- https://dev.to/kolokodess/getting-started-with-django
+
+2- https://dev.to/kolokodess/understanding-the-mvc-pattern-in-django
+
+3- https://www.datacamp.com/community/tutorials/web-development-django
+
+4- https://www.youtube.com/watch?v=_04toQWN5-8
